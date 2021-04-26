@@ -96,3 +96,6 @@ As final considerations:
 * You must include a written description of three observable trends based on the data.
 * See [Example Solution](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) for a reference on expected format.
 
+### Copyright
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
