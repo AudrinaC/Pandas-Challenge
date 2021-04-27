@@ -5,7 +5,7 @@ GitHub "Display the Rendered Blob" is having issues converting Jupyter Notebook'
 
 open: https://nbviewer.jupyter.org/
 
-paste: https://github.com/AudrinaC/pandas-challenge/blob/master/HeroesOfPymoli/HeroesOfPymoli_starter.ipynb
+paste: https://github.com/AudrinaC/pandas-challenge/blob/main/HeroesOfPymoli/HeroesOfPymoli_starter.ipynb
 
 
 # Pandas Homework - Pandas, Pandas, Pandas
