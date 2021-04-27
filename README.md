@@ -1,7 +1,7 @@
 # Pandas-Challenge
 Week 4 Assignment 
 
-GitHub "Display the Rendered Blob" is having issues converting Jupyter Notebook's ipynb when there is a .map("${:,.2f}".format used within the data table. However, the data is listed below: 
+GitHub is having issues converting Jupyter Notebook's ipynb when there is a .map("${:,.2f}".format used within the data table. However, the data is listed below: 
 
 # Pandas Homework - Pandas, Pandas, Pandas
 
