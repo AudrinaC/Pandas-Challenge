@@ -1,5 +1,13 @@
 # Pandas-Challenge
 Week 4 Assignment 
+
+GitHub "Display the Rendered Blob" is having issues converting Jupyter Notebook's ipynb when there is a .map("${:,.2f}".format used within the data table. Please use the following link below that utilizes nbviewer for proper output display:
+
+open: https://nbviewer.jupyter.org/
+
+paste: https://github.com/AudrinaC/pandas-challenge/blob/master/HeroesOfPymoli/HeroesOfPymoli_starter.ipynb
+
+
 # Pandas Homework - Pandas, Pandas, Pandas
 
 ## Background
